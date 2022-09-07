@@ -15,6 +15,7 @@ td {
 
 th{
     text-align: center;
+    width: 33.33%;
 }
 
 tr:nth-child(odd) {
